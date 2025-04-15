@@ -34,7 +34,7 @@ def user_information(message):
 
 @bot.message_handler(commands=['site', 'website'])
 def site():
-    webbrowser.open('https://gitlab.com/erp_tern_2/chatgpt-api-bot')
+    webbrowser.open('https://github.com/fpmitucha/ChatGPT-API-bot')
 
 
 # обрабатываем текст, который поступает от пользователя
